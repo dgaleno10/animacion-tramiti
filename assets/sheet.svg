@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.54 67.48" preserveAspectRatio="xMidYMax meet">
+   <defs>
+      <style>
+        .d{fill:#fff;}.e{fill:#4c4c4c;}
+        #prueba { fill: red;}
+      </style>
+   </defs>
+   <g id="a" />
+   <g id="b">
+      <g id="c">
+         <g>
+            <polygon class="d" points="35.04 46.7 .5 66.61 .5 20.78 35.04 .87 35.04 46.7"/>
+            <path class="e" d="M0,67.48V20.49L35.54,0V46.99L0,67.48ZM1,21.07v44.68l33.54-19.34V1.73L1,21.07Z"/>
+         </g>
+         <rect id="prueba" class="e" x="7.47" y="23.29" width="19.06" height="1" transform="translate(-9.6 11.65) rotate(-29.92)"/>
+         <rect class="e" x="7.47" y="29.18" width="19.06" height="1" transform="translate(-12.54 12.43) rotate(-29.92)"/>
+         <rect class="e" x="7.47" y="35.06" width="19.06" height="1" transform="translate(-15.47 13.22) rotate(-29.92)"/>
+         <rect class="e" x="7.47" y="40.95" width="19.06" height="1" transform="translate(-18.41 14) rotate(-29.92)"/>
+         <rect class="e" x="7.47" y="35.06" width="19.06" height="1" transform="translate(-15.47 13.22) rotate(-29.92)"/>
+      </g>
+   </g>
+</svg>
+
+
+
